@@ -5,7 +5,7 @@ We are now a github organization. You are invited to participate. :)
 
 # Embedded MongoDB Downloader
 
-Based on Embedded MongoDB
+Based on Embedded MongoDB and the work of [Laurent Gaertner](https://github.com/laurentgaertner) and [Ittai Zeidman](https://github.com/ittaiz)
 
 ## License
 
