@@ -1,0 +1,13 @@
+target
+temp/
+velocity.log
+*~
+.classpath
+.project
+.settings
+.externalToolBuilders
+.idea
+.gradle
+build/
+*.iml
+/build-eclipse/
