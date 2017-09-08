@@ -91,9 +91,6 @@
 				<configuration>
 					<!-- <basedir>${basedir}</basedir> -->
 					<header>${basedir}/src/etc/header.txt</header>
-					<validHeaders>
-						<validHeader>${basedir}/src/etc/header-manual-can-yaman.txt</validHeader> 
-					</validHeaders>
 					<quiet>false</quiet>
 					<failIfMissing>true</failIfMissing>
 					<strictCheck>true</strictCheck>
@@ -215,6 +212,13 @@
         <scala.library.version>2.11</scala.library.version>
         <scala.version>2.11.7</scala.version>
         <specs2.version>3.7.1</specs2.version>
+				
+				<lic.year>2017</lic.year>
+				<lic.email>michael@mosmann.de</lic.email>
+				<lic.username>Michael Mosmann</lic.username>
+				<lic.email2>m.joehren@googlemail.com</lic.email2>
+				<lic.username2>Martin Jöhren</lic.username2>
+				<lic.developers>konstantin-ba@github, Archimedes Trajano	(trajano@github)</lic.developers>
     </properties>
 
     <dependencies>
