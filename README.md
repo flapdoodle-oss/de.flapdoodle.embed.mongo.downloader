@@ -24,12 +24,12 @@ Additionally you should pass the download directory to your test so that it can 
 
 ### Maven
 
-Stable (Maven Central Repository, Released: 08.09.2017 - wait 24hrs for [maven central](http://repo1.maven.org/maven2/de/flapdoodle/embed/de.flapdoodle.embed.mongo.downloader/maven-metadata.xml))
+Stable (Maven Central Repository, Released: 10.09.2017 - wait 24hrs for [maven central](http://repo1.maven.org/maven2/de/flapdoodle/embed/de.flapdoodle.embed.mongo.downloader/maven-metadata.xml))
 
 	<dependency>
 		<groupId>de.flapdoodle.embed</groupId>
 		<artifactId>de.flapdoodle.embed.downloader</artifactId>
-		<version>1.50.0</version>
+		<version>2.0.0</version>
 	</dependency>
 
 Snapshots (Repository http://oss.sonatype.org/content/repositories/snapshots)
@@ -37,7 +37,7 @@ Snapshots (Repository http://oss.sonatype.org/content/repositories/snapshots)
 	<dependency>
 		<groupId>de.flapdoodle.embed</groupId>
 		<artifactId>de.flapdoodle.embed.mongo.downloader</artifactId>
-		<version>1.50.1-SNAPSHOT</version>
+		<version>2.0.1-SNAPSHOT</version>
 	</dependency>
 
 
