@@ -15,7 +15,7 @@ node {
    // Run the maven build
    sh "${mvnHome}/bin/mvn clean install"
 
-   junit '**/target/surefire-reports/TEST-*.xml'
-   jacoco()
-   archiveArtifacts artifacts: 'target/site/jacoco/**', onlyIfSuccessful: true
+   //junit '**/target/surefire-reports/TEST-*.xml'
+   //jacoco()
+   //archiveArtifacts artifacts: 'target/site/jacoco/**', onlyIfSuccessful: true
 }
